@@ -2,20 +2,20 @@
 
 October 2, 2021
 
-This is an Arduino breadboard project inspired by [Viral Science](https://www.viralsciencecreativity.com/post/arduino-mega-analog-clock). It uses the DS3231 clock module to display the date and time on an OLED display.
+This is an Arduino breadboard project inspired by [Viral Science](https://www.viralsciencecreativity.com/post/arduino-mega-analog-clock). This program uses the DS3231 clock module to display the date and time on an OLED display.
 
-![image](https://user-images.githubusercontent.com/93152842/190876410-d1f8c679-c6bb-45d6-9f62-86d274ca5a8e.png)
+![image](https://user-images.githubusercontent.com/93152842/190876294-14649fa5-08f1-4a7f-a742-6fb493b60a48.png)
 
 *Check out the [Youtube video](https://youtu.be/n8DuL_b89Zk) for a demo!*
 
 ## Parts list
 | Description | Quantity |
-|-|-|
-|Arduino Uno Rev3 | 1 |
-|128x64 OLED Display | 1 |
-| DS3231 clock module | 1 |
+| - | - |
+| Arduino Uno Rev3 | 1 |
+| 128x64 OLED display | 1 |
+| DS3231 RTC clock module | 1 |
 
 ## Schematic
-![image](https://user-images.githubusercontent.com/93152842/190876442-fdf5fadb-7658-492a-b0af-bb6f57833efd.png)
+![image](https://user-images.githubusercontent.com/93152842/190876958-2ca0aee6-794f-4384-aa46-c5136da7978c.png)
 
-*Circuit schematic using Arduino MEGA, Image Credit: Viral Science*
+*Circuit schematic with Arduino MEGA, Image Credit: Viral Science*
